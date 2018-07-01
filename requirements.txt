@@ -1,0 +1,5 @@
+flask>=0.10.1
+bravado-core>=4.0.0
+jsonschema>=2.6.0
+syslogger>=0.0.4
+pyYAML>=4.1
